@@ -63,3 +63,7 @@ You should see something like this:
 Now when someone clicks on any record, it will toggle the "On Display?" field and update your Airtable base in real time.
 
 ![Update example](https://static.airtable.com/i/api_proxy_demo/update_example.gif)
+
+# Live demo
+
+[Live demo](https://l.airtable.com/art_gallery_proxy_demo) is hosted on heroku. Feel free to click around.
