@@ -5,7 +5,7 @@ Gallery template example and allows anyone on the internet to toggle
 whether a particular artist is on display.
 
 In this demo, clicking anywhere on the artist row toggles "On
-Display?" checkbox in the base.
+Display?" checkbox in the base. You can [play with a live demo on heroku](https://l.airtable.com/art_gallery_proxy_demo).
 
 This set up is useful if you'd like to provide read or write access to
 Airtable data w/o exposing your API key, adding your own caching layer
